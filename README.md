@@ -8,4 +8,4 @@ A simple and responsive to-do list built using HTML , CSS , JAVASCRIPT
 -Tasks persists after page refresh
 
 ## Live Demo
-https://rajat-das247365.github.io
+https://rajat-das247365.github.io/todo-app/
